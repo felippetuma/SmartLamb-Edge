@@ -142,6 +142,10 @@ Dados do sistema
 O ESP32 coleta o valor fornecido pelo sensor e envia essa informação para o servidor através da comunicação de rede configurada no projeto.
 
 
+## Vídeo Demostrativo da Smart Lamp
+
+[YouTube](https://youtube.com/shorts/bkxifsv-vls?feature=share)
+
 ## Integrantes
 
 - Arthur Nepomuceno RM: 572626 
