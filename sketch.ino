@@ -1,4 +1,4 @@
-//Autors: Felippe Tuma, Felipe Motta, Davi Toyota, Renan Martins, Arthur Nepomuceno, Yan da Silva
+//Autors: Arthur Nepomuceno Dias Gomes; Davi Yuu Santos Toyota; Felipe Santana Motta; Felippe Tuma Costa; Renan Martins da Silva; Yan da Silva Lima
 #include <WiFi.h>
 #include <PubSubClient.h>
  
