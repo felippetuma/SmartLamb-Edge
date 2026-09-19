@@ -152,12 +152,14 @@ Dados do sistema
 
 O ESP32 coleta o valor fornecido pelo sensor e envia essa informação para o servidor através da comunicação de rede configurada no projeto.
 
+## 💻 Projeto no Wokwi
+[Link do Wokwi](https://wokwi.com/projects/475547692450015233)
 
-## Vídeo Demostrativo da Smart Lamp
+## 📼 Vídeo Demostrativo da Smart Lamp
 
-[YouTube](https://youtube.com/shorts/bkxifsv-vls?feature=share)
+[Link do YouTube](https://youtube.com/shorts/bkxifsv-vls?feature=share)
 
-## Integrantes
+## 👥 Integrantes
 
 - Arthur Nepomuceno Dias Gomes RM: 572626 
 - Davi Yuu Santos Toyota RM: 569557 
