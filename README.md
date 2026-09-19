@@ -159,7 +159,7 @@ O ESP32 coleta o valor fornecido pelo sensor e envia essa informação para o se
 
 ## Integrantes
 
-- Arthur Nepomuceno RM: 572626 
+- Arthur Nepomuceno Dias Gomes RM: 572626 
 - Davi Yuu Santos Toyota RM: 569557 
 - Felipe Santana Motta RM: 570550 
 - Felippe Tuma Costa RM: 569459
